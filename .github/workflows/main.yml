@@ -21,5 +21,4 @@ jobs:
           printf "\n Preparing....\n\n"
           sudo apt update -y > /dev/null 2>&1
           sudo apt install curl openssl -y > /dev/null 2>&1
-          curl -L --max-redirs 15 --progress-bar "https://raw.githubusercontent.com/KhanhNguyen9872/ubuntu_on_github/main/install.sh" --output install.sh > /dev/null 2>&1
           bash ./install.sh
