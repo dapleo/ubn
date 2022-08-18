@@ -1,6 +1,9 @@
 # ubuntu_on_github
 Run Ubuntu 22.04 LTS VPS on Github
 
+## WARNING
+- Recommend use clone account to run it, use main account may be banned!
+
 # How to use?
 1. Fork this repo
 2. Edit the config.txt in the repo (Need your Ngrok Authtoken)
