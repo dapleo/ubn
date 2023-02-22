@@ -1,3 +1,3 @@
-ngrok_authtoken: 2M2vESFIDDh6XNMJegEVW3671q5_7EXdjcTgCMiDk6q5e1c6d
+ngrok_authtoken: 2M4cby78cyc6vpxROAUSDG53BWF_4tGXAZWsut8G91VJQxPmH
 ngrok_region: ap
 password: password
